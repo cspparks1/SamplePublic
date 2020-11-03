@@ -1,2 +1,1 @@
-# SamplePublic
-Sample Public Repository
+# Sample Public Repository
